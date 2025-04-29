@@ -1,1 +1,1 @@
-# Projeto-Equa-o
+# Projeto-Equacao
