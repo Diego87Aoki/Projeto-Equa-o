@@ -1,0 +1,5 @@
+public class NaoTemRaizesReaisRuntimeException extends RuntimeException {
+    public NaoTemRaizesReaisRuntimeException() {
+        super("Delta negativo - Não existem raízes reais (RuntimeException).");
+    }
+}
